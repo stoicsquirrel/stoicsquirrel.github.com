@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[The Stoic Squirrel]]></title>
+  <link href="http://stoicsquirrel.github.com/atom.xml" rel="self"/>
+  <link href="http://stoicsquirrel.github.com/"/>
+  <updated>2013-01-13T16:37:51-05:00</updated>
+  <id>http://stoicsquirrel.github.com/</id>
+  <author>
+    <name><![CDATA[Alex Melman]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
